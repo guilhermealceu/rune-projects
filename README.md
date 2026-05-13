@@ -21,8 +21,8 @@
 
 The ecosystem brings together multiple digital products under one creative and technological identity, combining AI-powered tools, independent creator platforms, immersive web experiences and original virtual characters.
 
-🌐 **Official Website:** https://www.runeprojects.com.br  
-🌙 **Nixie Official Page:** https://www.runeprojects.com.br/nixie  
+**Official Website:** https://www.runeprojects.com.br  
+**Nixie Official Page:** https://www.runeprojects.com.br/nixie  
 
 ---
 
