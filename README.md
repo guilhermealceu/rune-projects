@@ -68,16 +68,16 @@ She is an evolving original virtual character designed to exist across multiple 
       <a href="https://runewave.runeprojects.com.br"><strong>Visit RuneWave</strong></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://finanflow2026.runeprojects.com.br">
+      <a href="https://finanrune.runeprojects.com.br">
         <img src="https://runestorage.runeprojects.com.br/uploads/logos/1773707013895-663398229.png" width="95" alt="FinanRune Logo"/>
       </a>
       <br/>
       <h3>FinanRune</h3>
       <p>
         Personal finance and asset-management project (formerly FinanFlow).
-        The legacy address remains during the public-name transition.
+        Official site: https://finanrune.runeprojects.com.br/. Formerly FinanFlow.
       </p>
-      <a href="https://finanflow2026.runeprojects.com.br"><strong>Visit FinanRune</strong></a>
+      <a href="https://finanrune.runeprojects.com.br"><strong>Visit FinanRune</strong></a>
     </td>
     <td align="center" width="33%">
       <a href="https://nxbeats.runeprojects.com.br">
@@ -142,7 +142,7 @@ She is an evolving original virtual character designed to exist across multiple 
 | **RuneHub** | Marketplace and ecosystem hub | https://runehub.runeprojects.com.br |
 | **Nixie** | Official virtual character | https://www.runeprojects.com.br/nixie |
 | **RuneWave** | AI music platform for creators and listeners | https://runewave.runeprojects.com.br |
-| **FinanRune** | Personal finance management platform | https://finanflow2026.runeprojects.com.br |
+| **FinanRune** | Personal finance management platform | https://finanrune.runeprojects.com.br |
 | **NX Beats** | Rhythm game and neural audio experience | https://nxbeats.runeprojects.com.br |
 | **Smartools** | Productivity and utility tools | https://smartools.runeprojects.com.br |
 | **Rune Story Studio** | AI storytelling and worldbuilding platform | https://runestorystudio.runeprojects.com.br |
