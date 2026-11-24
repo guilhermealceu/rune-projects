@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Official%20Website-Rune%20Projects-8A2BE2?style=for-the-badge)](https://www.runeprojects.com.br)
 [![RuneHub](https://img.shields.io/badge/RuneHub-Marketplace-FF8C00?style=for-the-badge)](https://runehub.runeprojects.com.br)
+[![Download RuneHub](https://img.shields.io/badge/Download%20RuneHub-Windows-0B0B12?style=for-the-badge)](https://github.com/guilhermealceu/runehub-releases/releases/latest/download/RuneHub-Installer.exe)
 [![Nixie](https://img.shields.io/badge/Nixie-Official%20Virtual%20Character-7B61FF?style=for-the-badge)](https://www.runeprojects.com.br/nixie)
 
 
@@ -94,16 +95,13 @@ She is an evolving original virtual character designed to exist across multiple 
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://runestorystudio.runeprojects.com.br">
         <img src="https://runestorage.runeprojects.com.br/uploads/logos/1772405083373-865194841.png" width="95" alt="Rune Story Studio Logo"/>
-      </a>
       <br/>
       <h3>Rune Story Studio</h3>
       <p>
-        AI-powered storytelling and worldbuilding platform for characters,
-        stories, anime-inspired narratives and creative universes.
+        A studio for stories, scenes and interactive narratives.
+        The web version is no longer available; it is being prepared as a desktop app.
       </p>
-      <a href="https://runestorystudio.runeprojects.com.br"><strong>Visit Rune Story Studio</strong></a>
     </td>
     <td align="center" width="33%">
       <a href="https://isekaitracker.runeprojects.com.br">
@@ -112,8 +110,8 @@ She is an evolving original virtual character designed to exist across multiple 
       <br/>
       <h3>Isekai Tracker</h3>
       <p>
-        Anime-inspired tracker designed to help users organize episodes,
-        fictional worlds and entertainment progress.
+        Anime tracker on the web, with a desktop app available only through RuneHub
+        and a public <a href="https://github.com/guilhermealceu/isekai-tracker-extension">browser extension</a>.
       </p>
       <a href="https://isekaitracker.runeprojects.com.br"><strong>Visit Isekai Tracker</strong></a>
     </td>
@@ -139,15 +137,16 @@ She is an evolving original virtual character designed to exist across multiple 
 | Project | Focus | Link |
 |---|---|---|
 | **Rune Projects** | Main ecosystem website | https://www.runeprojects.com.br |
-| **RuneHub** | Marketplace and ecosystem hub | https://runehub.runeprojects.com.br |
+| **RuneHub** | Marketplace, desktop launcher and public Windows installer | https://runehub.runeprojects.com.br · [Download](https://github.com/guilhermealceu/runehub-releases/releases/latest/download/RuneHub-Installer.exe) |
 | **Nixie** | Official virtual character | https://www.runeprojects.com.br/nixie |
 | **RuneWave** | AI music platform for creators and listeners | https://runewave.runeprojects.com.br |
 | **FinanRune** | Personal finance management platform | https://finanrune.runeprojects.com.br |
 | **NX Beats** | Rhythm game and neural audio experience | https://nxbeats.runeprojects.com.br |
 | **Smartools** | Productivity and utility tools | https://smartools.runeprojects.com.br |
-| **Rune Story Studio** | AI storytelling and worldbuilding platform | https://runestorystudio.runeprojects.com.br |
-| **Rune Story Player** | Interactive story player | https://runestoryplayer.runeprojects.com.br |
-| **Isekai Tracker** | Anime and isekai tracking platform | https://isekaitracker.runeprojects.com.br |
+| **Rune Story Studio** | Story editor, being prepared as a desktop app | Not available on the web |
+| **Rune Story Player** | Interactive story player, being prepared as a desktop app | Not available on the web |
+| **Steins;Tracker** | Local game time tracker for Windows | https://github.com/guilhermealceu/steins-tracker · also via RuneHub |
+| **Isekai Tracker** | Anime tracking platform; desktop app via RuneHub | https://isekaitracker.runeprojects.com.br |
 
 
 ---
